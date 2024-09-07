@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AreezAftab
-- 👀 I’m interested in WEB DEVELOPMENT,CYBER SECURITY.
-- 🌱 I’m currently learning HTML,CSS,JAVASCRIPT
-- 💞️ I’m looking to collaborate on MAKING INTERACTIVE WEBSITES.
+- 👀 I’m interested in AI & ML,CYBER SECURITY.
 - 📫 How to reach me (areez2662@gmail.com)
 
 <!---
